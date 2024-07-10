@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cookbook</string>
+    <string name="dish_list_empty">Dish list is empty</string>
+    <string name="dummy_dish_screen_prev_name">Dish name</string>
+    <string name="dummy_dish_screen_prev_instruction">Instructions… "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="dummy_dish_screen_prev_listItems">List of items "Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit,\nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+</resources>
